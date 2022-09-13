@@ -5,12 +5,12 @@
 /**
  * main - assign random number
  *
- * Description: This program will assign a random number to the variable n 
- * Complete the source code in order to print whether the number stored in the 
- * variable n is positive or negative.
+ * Description: This program will assign a random number to the variable n
+ * Complete the source code in order to print whether the number stored in
+ * the variable n is positive or negative.
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 int n;
 

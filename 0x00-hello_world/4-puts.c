@@ -1,10 +1,12 @@
 #include <stdio.h>
 
 
-/*
- *  Description: using the puts function
- *  this program prints Programming is like building a multilingual puzzle
- *  Return: 0
+/**
+ * main - use puts to print
+ *
+ * Description: using the puts function
+ * this program prints Programming is like building a multilingual puzzle
+ * Return: 0
  */
 
 int main(void)
