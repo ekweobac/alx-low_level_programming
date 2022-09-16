@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * main - print_alphabet_x10
+ * main - print alphabet x 10
  *
  * Description: function to print abc 10 times
  * Return: 0
  */
 
-void print_alphabet_x10(void) /* description of variable*/
+void print_alphabet_x10(void)
 {
 	char c, i;
 
